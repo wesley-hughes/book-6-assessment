@@ -1,0 +1,47 @@
+
+
+.button {
+    background-color: darkblue;
+    color: antiquewhite;
+    margin-top: 15px;
+    padding: 10px 5px 10px 5px;
+}
+
+
+.topicsList {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.letter {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    border: 2px dotted darkgray;
+    border-radius: 20px;
+}
+
+div { 
+    
+}
+
+
+.topics {
+    display: flex;
+    flex-direction: row;
+}
+
+.topics div {
+    padding: 10px;
+    margin: 10px;
+    background-color: mediumaquamarine;
+    border: 1px dotted darkgray;
+    border-radius: 20px;
+    box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.5);
+
+}
+
+.dateParagraph{
+    font-size: smaller;
+}
